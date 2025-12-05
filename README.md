@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Noor Ali Fadhil
 
-### Internet E-Security Graduate | Data Science & AI Trainee  
+###  Data Science & AI Specialist |  Internet E-Security Specialist 
 **Python • ETL • Docker • Prefect • APIs**
 
 I'm passionate about turning data into actionable insights and building innovative, reliable systems.  
